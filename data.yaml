@@ -1,0 +1,6 @@
+train: E:/ProjectRin/path/train        # Path ไปยังโฟลเดอร์ภาพฝึก
+val: E:/ProjectRin/path/val           # Path ไปยังโฟลเดอร์ภาพตรวจสอบ
+#test: projectrin/path/test/          # Path ไปยังโฟลเดอร์ภาพทดสอบ (ถ้ามี)
+
+nc: 3                                  # จำนวนคลาส (แมว)
+names: ['cat','little box','food bowl']                         # ชื่อคลาส
